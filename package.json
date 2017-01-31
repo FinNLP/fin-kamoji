@@ -1,6 +1,6 @@
 {
   "name": "fin-kamoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Kamoji support for the FIN natural language processor",
   "main": "index.js",
   "dependencies": {
