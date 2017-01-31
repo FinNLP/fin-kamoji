@@ -1,0 +1,29 @@
+{
+  "name": "fin-kamoji",
+  "version": "1.0.0",
+  "description": "Kamoji support for the FIN natural language processor",
+  "main": "index.js",
+  "dependencies": {
+    "finnlp": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FinNLP/fin-kamoji.git"
+  },
+  "keywords": [
+    "fin",
+    "nlp",
+    "fin-extension",
+    "kamoji"
+  ],
+  "author": "Alex Corvi <alex@arrayy.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FinNLP/fin-kamoji/issues"
+  },
+  "homepage": "https://github.com/FinNLP/fin-kamoji#readme"
+}
