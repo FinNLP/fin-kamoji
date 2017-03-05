@@ -1,4 +1,4 @@
-# Fin-Kamoji
+# Fin-Kamoji [Doesn't work anymore]
 Kamoji lexer and lexicon support for **Fin** natural language processor.
 
 This extension adds support for over 1400 Kamoji, including simple ones like `ಠ_ಠ` and complex ones like: 
